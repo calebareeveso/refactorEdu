@@ -17,7 +17,7 @@ export default function Main() {
             layout={"fill"}
           />
         </div>
-        <div className="h-10 w-10 sm:w-48 sm:h-10 relative none sm:block">
+        <div className="h-10 w-10 sm:w-48 sm:h-10 relative hidden sm:block">
           <Image
             src={"/static/images/logotype.svg"}
             alt={"refatoredu"}
