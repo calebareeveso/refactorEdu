@@ -36,6 +36,48 @@ export default function Document() {
         />
         <meta name="theme-color" content="#ffffff" />
         {/* Meta Tags https://refactoredu.co/static/images/banner.png */}
+        {/* <!-- Primary Meta Tags --> */}
+        <title>refactorEdu - Making the journey through education easier</title>
+        <meta
+          name="title"
+          content="refactorEdu - Making the journey through education easier"
+        />
+        <meta
+          name="description"
+          content="Community-created comprehensive roadmaps to guide people in their pursuit of education and growth across all (STEAM) fields"
+        />
+
+        {/* <!-- Open Graph / Facebook --> */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://refactoredu.co" />
+        <meta
+          property="og:title"
+          content="refactorEdu - Making the journey through education easier"
+        />
+        <meta
+          property="og:description"
+          content="Community-created comprehensive roadmaps to guide people in their pursuit of education and growth across all (STEAM) fields"
+        />
+        <meta
+          property="og:image"
+          content="https://refactoredu.co/static/images/banner.png"
+        />
+
+        {/* <!-- Twitter --> */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://refactoredu.co" />
+        <meta
+          property="twitter:title"
+          content="refactorEdu - Making the journey through education easier"
+        />
+        <meta
+          property="twitter:description"
+          content="Community-created comprehensive roadmaps to guide people in their pursuit of education and growth across all (STEAM) fields"
+        />
+        <meta
+          property="twitter:image"
+          content="https://refactoredu.co/static/images/banner.png"
+        />
       </Head>
       <body>
         <Main />
