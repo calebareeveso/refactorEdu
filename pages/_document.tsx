@@ -35,7 +35,6 @@ export default function Document() {
           content="/static/favicons/browserconfig.xml"
         />
         <meta name="theme-color" content="#ffffff" />
-        {/* Meta Tags https://refactoredu.co/static/images/banner.png */}
         {/* <!-- Primary Meta Tags --> */}
         <title>refactorEdu - Making the journey through education easier</title>
         <meta
