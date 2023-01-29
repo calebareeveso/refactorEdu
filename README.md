@@ -1,38 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="https://refactoredu.co">
+  <img alt="Discover student-friendly, interactive roadmaps, guides, and other learning materials for STEM subjects" src="https://www.refactoredu.co/static/images/banner.png">
+  <h1 align="center">refactorEdu</h1>
+</a>
 
-## Getting Started
+<p align="center">
+  Discover student-friendly, interactive roadmaps, guides, and other learning materials for STEM subjects
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://twitter.com/refactorEdu">
+   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/refactorEdu?color=F0E704&logo=twitter&style=for-the-badge">
+  </a>
+  <a href="https://github.com/calebareeveso/refactorEdu/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/steven-tey/dub?label=license&logo=github&color=F0E704&logoColor=fff&style=for-the-badge" alt="License" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#introduction"><strong>Introduction</strong></a> ·
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#Development"><strong>Development</strong></a> ·
+  <a href="#contributing"><strong>Contributing</strong></a>
+</p>
+<br/>
+
+## Introduction
+
+Community created comprehensive roadmaps to guide people in their pursuit of education and growth across all (STEAM) fields.
+
+**[View all Roadmaps](https://refactoredu.co) >>**
+
+## Share with the community
+
+Please consider sharing a post about [roadmap.sh](https://refactoredu.co) and the value it provides. It really does help!
+
+[![Share on twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter&style=for-the-badge&logo=appveyor)](https://twitter.com/share?url=https://refactoredu.co&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin&style=for-the-badge&logo=appveyor)](https://www.linkedin.com/shareArticle?url=https://refactoredu.co&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![Share on reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit&style=for-the-badge&logo=appveyor)](https://reddit.com/submit?url=https://refactoredu.co&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook&style=for-the-badge&logo=appveyor)](https://www.facebook.com/sharer/sharer.php?u=https://refactoredu.co)
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/) – framework
+- [Typescript](https://www.typescriptlang.org/) – language
+- [Tailwind](https://tailwindcss.com/) – CSS
+- [Vercel](https://vercel.com/) – hosting
+
+## Development
+
+Clone the repository, install the dependencies and start the application
 
 ```bash
+git clone git@github.com/calebareeveso/refactorEdu.git
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contribution
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+> Coming soon 🤝🏾
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Author
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Caleb Areeveso ([@calebareeveso](https://twitter.com/calebareeveso))
