@@ -62,4 +62,8 @@ npm run dev
 
 ## Author
 
-- Caleb Areeveso ([@calebareeveso](https://twitter.com/calebareeveso))
+Caleb Areeveso ([@calebareeveso](https://twitter.com/calebareeveso))
+
+## License
+
+refactorEdu is open-source under the GNU Affero General Public License Version 3 (AGPLv3) or any later version. You can [find it here](https://github.com/calebareeveso/refactorEdu/blob/main/LICENSE.md).
