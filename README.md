@@ -34,9 +34,9 @@ Community created comprehensive roadmaps to guide people in their pursuit of edu
 
 Please consider sharing a post about [roadmap.sh](https://refactoredu.co) and the value it provides. It really does help!
 
-[![Share on twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter&style=for-the-badge&logo=appveyor)](<https://twitter.com/share?url=https://refactoredu.co&text=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20(STEAM)%20fields)
-[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin&style=for-the-badge&logo=appveyor)](<https://www.linkedin.com/shareArticle?url=https://refactoredu.co&title=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20(STEAM)%20fields)
-[![Share on reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit&style=for-the-badge&logo=appveyor)](<https://reddit.com/submit?url=https://refactoredu.co&title=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20(STEAM)%20fields)
+[![Share on twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter&style=for-the-badge&logo=appveyor)](https://twitter.com/share?url=https://refactoredu.co&text=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20STEAM%20fields)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin&style=for-the-badge&logo=appveyor)](https://www.linkedin.com/shareArticle?url=https://refactoredu.co&title=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20STEAM%20fields)
+[![Share on reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit&style=for-the-badge&logo=appveyor)](https://reddit.com/submit?url=https://refactoredu.co&title=Community%20created%20comprehensive%20roadmaps%20to%20guide%20people%20in%20their%20pursuit%20of%20education%20and%20growth%20across%20all%20STEAM%20fields)
 [![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook&style=for-the-badge&logo=appveyor)](https://www.facebook.com/sharer/sharer.php?u=https://refactoredu.co)
 
 ## Tech Stack
