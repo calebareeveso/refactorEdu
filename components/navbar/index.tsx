@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/legacy/image";
+import Link from "next/link";
 import React from "react";
 // import {
 //   Header,
@@ -27,7 +28,10 @@ export default function Main() {
       </div>
 
       <div className=" ">
-        <button className="flex items-center space-x-3 bg-black px-6 py-4 sm:px-8 sm:py-6 text-white">
+        <Link
+          href={"https://github.com/calebareeveso/refactorEdu"}
+          className="flex items-center space-x-3 bg-black px-6 py-4 sm:px-8 sm:py-6 text-white"
+        >
           <span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -41,7 +45,7 @@ export default function Main() {
             </svg>
           </span>
           <span className="text-base sm:text-lg md:text-xl">GitHub</span>
-        </button>
+        </Link>
       </div>
     </nav>
   );
