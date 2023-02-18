@@ -36,7 +36,6 @@ export default function Document() {
         />
         <meta name="theme-color" content="#ffffff" />
         {/* <!-- Primary Meta Tags --> */}
-        <title>refactorEdu - Making the journey through education easier</title>
         <meta
           name="title"
           content="refactorEdu - Making the journey through education easier"

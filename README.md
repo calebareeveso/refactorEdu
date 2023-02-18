@@ -11,6 +11,9 @@
   <a href="https://linkedin.com/refactorEdu">
    <img alt="linkedin Follow" src="https://img.shields.io/twitter/follow/refactorEdu?color=F0E704&logo=linkedin&style=for-the-badge">
   </a>
+  <a href="https://twitter.com/RefactorEduHQ">
+   <img alt="twitter Follow" src="https://img.shields.io/twitter/follow/refactorEduHQ?color=F0E704&logo=twitter&style=for-the-badge">
+  </a>
   <a href="https://github.com/calebareeveso/refactorEdu/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/steven-tey/dub?label=license&logo=github&color=F0E704&logoColor=fff&style=for-the-badge" alt="License" />
   </a>
